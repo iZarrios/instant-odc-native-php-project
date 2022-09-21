@@ -2,4 +2,4 @@
 PHP native project with authentication and authorization
 
 ## Disclaimer 
-I have not added auto migration yet.
+This project does not have auto-migration.
